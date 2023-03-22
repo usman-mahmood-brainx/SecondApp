@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("Change 4");
         println("YOutubeBranch")
         println("Thiss Line will be merged")
+        println("Changes from the friend")
         // My first commit
     }
 }
